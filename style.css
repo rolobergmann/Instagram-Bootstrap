@@ -1,4 +1,10 @@
-#toggle{
-    display: flex;
-    justify-content: center;
+.post-number{
+    color: gray;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
 }
